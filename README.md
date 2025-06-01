@@ -25,7 +25,7 @@ Menu Principal
 
 [9] Mostrar distribuição normal
 
-[20] Mensagem especial de agradecimento :)
+[20] Vai ter que testar pra descobrir
 
 [0] Sair
 
@@ -63,3 +63,7 @@ Os logs são gerados automaticamente no arquivo analise_dados.log.
 
 # Agradecimentos
 Este projeto foi desenvolvido como parte da unidade curricular Elementos de Inteligência Artificial e Ciência de Dados da Universidade da Beira Interior.
+
+Links:
+https://docs.google.com/document/d/14UL4D91vhZYDywp9MNmAjEIin1LbzWiVJkge_Q7AwSc/edit?tab=t.0
+https://docs.google.com/presentation/d/1N8vPq0K2W1crCcsekbvOGgNki9webzCLhQialGjTPXc/edit?slide=id.g35f83489e09_0_63#slide=id.g35f83489e09_0_63
